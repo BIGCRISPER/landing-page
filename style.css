@@ -14,6 +14,8 @@ body {
     flex: 1;
 }
 
+/* Header */
+
 .header {
     background-color: #1F2937;
     display: flex;
@@ -35,6 +37,8 @@ body {
     gap: 20px;
     padding-top: 10px;
 }
+
+/* First Section */
 
 .section-one {
     background-color: #1F2937;
@@ -91,6 +95,8 @@ body {
     margin-left: 30px;
 }
 
+/* Second Section */
+
 .section-two {
     display: flex;
     height: 500px;
@@ -129,6 +135,8 @@ body {
     align-items: center;
 }
 
+/* Third Section */
+
 .section-three {
     display: flex;
     height: 500px;
@@ -156,6 +164,8 @@ body {
     font-size: 22px;
     font-weight: 600;
 }
+
+/* Fourth Section */
 
 .section-four {
     display: flex;
@@ -201,6 +211,8 @@ body {
     background-color: #3882F6;
     color: white;
 }
+
+/* Footer */
 
 .footer {
     background-color: #1F2937;
